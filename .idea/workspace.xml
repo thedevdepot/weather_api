@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="723a8592-a24f-4a68-9498-75dcd3f3e059" name="Changes" comment="integrating jupyter notebook to handle weather data.">
+    <list default="true" id="723a8592-a24f-4a68-9498-75dcd3f3e059" name="Changes" comment="visualizing data using jupyter, pandas, numpy">
+      <change afterPath="$PROJECT_DIR$/data_small/.ipynb_checkpoints/TG_STAID000001-checkpoint.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728965023513</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="visualizing data using jupyter, pandas, numpy">
+      <option name="closed" value="true" />
+      <created>1729128660170</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729128660170</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,6 +157,7 @@
     <MESSAGE value="usded flask to make a basic website." />
     <MESSAGE value="configured flask to begin weather api" />
     <MESSAGE value="integrating jupyter notebook to handle weather data." />
-    <option name="LAST_COMMIT_MESSAGE" value="integrating jupyter notebook to handle weather data." />
+    <MESSAGE value="visualizing data using jupyter, pandas, numpy" />
+    <option name="LAST_COMMIT_MESSAGE" value="visualizing data using jupyter, pandas, numpy" />
   </component>
 </project>
