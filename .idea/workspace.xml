@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="723a8592-a24f-4a68-9498-75dcd3f3e059" name="Changes" comment="visualizing data using jupyter, pandas, numpy">
-      <change afterPath="$PROJECT_DIR$/data_small/.ipynb_checkpoints/TG_STAID000001-checkpoint.txt" afterDir="false" />
+    <list default="true" id="723a8592-a24f-4a68-9498-75dcd3f3e059" name="Changes" comment="Setting up api to return station data using pd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
     </list>
@@ -149,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729128660170</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Setting up api to return station data using pd">
+      <option name="closed" value="true" />
+      <created>1729130908274</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729130908274</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,6 +164,7 @@
     <MESSAGE value="configured flask to begin weather api" />
     <MESSAGE value="integrating jupyter notebook to handle weather data." />
     <MESSAGE value="visualizing data using jupyter, pandas, numpy" />
-    <option name="LAST_COMMIT_MESSAGE" value="visualizing data using jupyter, pandas, numpy" />
+    <MESSAGE value="Setting up api to return station data using pd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setting up api to return station data using pd" />
   </component>
 </project>
