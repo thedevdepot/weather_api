@@ -3,6 +3,7 @@ import pandas as pd
 
 app = Flask(__name__)
 
+# Display data to home.html
 stations = pd.read_csv("data_small/stations.txt", skiprows=17)
 stations = stations[["STAID", "STANAME                                 "]]
 
